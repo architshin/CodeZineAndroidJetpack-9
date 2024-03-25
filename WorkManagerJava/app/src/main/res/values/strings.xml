@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">WorkManagerJava</string>
+	<string name="bt_start_simple">シンプル</string>
+	<string name="bt_start_3states">Work State</string>
+	<string name="bt_start_delay">遅延</string>
+	<string name="bt_start_wifi">Wi-Fi</string>
+</resources>
